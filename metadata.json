@@ -1,0 +1,7 @@
+{
+  "name": "AI 智能报销系统",
+  "description": "一个使用 Gemini OCR 处理收据并结合可配置规则引擎进行自动审核的智能财务报销系统。",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
